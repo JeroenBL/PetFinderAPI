@@ -1,0 +1,13 @@
+D:\Data\_Code\CSharp\Projecten\Demos\PetFinderAPI\PetFinderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\PetFinderAPI.exe
+D:\Data\_Code\CSharp\Projecten\Demos\PetFinderAPI\PetFinderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\Data\_Code\CSharp\Projecten\Demos\PetFinderAPI\PetFinderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\Data\_Code\CSharp\Projecten\Demos\PetFinderAPI\PetFinderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\PetFinderAPI.dll
+D:\Data\_Code\CSharp\Projecten\Demos\PetFinderAPI\PetFinderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\PetFinderAPI.deps.json
+D:\Data\_Code\CSharp\Projecten\Demos\PetFinderAPI\PetFinderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\PetFinderAPI.runtimeconfig.json
+D:\Data\_Code\CSharp\Projecten\Demos\PetFinderAPI\PetFinderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\PetFinderAPI.pdb
+D:\Data\_Code\CSharp\Projecten\Demos\PetFinderAPI\PetFinderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\GeoCoordinate.dll
+D:\Data\_Code\CSharp\Projecten\Demos\PetFinderAPI\PetFinderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Data\_Code\CSharp\Projecten\Demos\PetFinderAPI\PetFinderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Annotations.dll
+D:\Data\_Code\CSharp\Projecten\Demos\PetFinderAPI\PetFinderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Data\_Code\CSharp\Projecten\Demos\PetFinderAPI\PetFinderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Data\_Code\CSharp\Projecten\Demos\PetFinderAPI\PetFinderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
