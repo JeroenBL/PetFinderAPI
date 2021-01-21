@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data\\_Code\\CSharp\\Projecten\\Demos\\PetFinderAPI\\PetFinderAPI\\PetFinderAPI.csproj": {}
+    "C:\\_Data\\Github\\jblaauw\\PetFinderAPI\\PetFinderAPI.csproj": {}
   },
   "projects": {
-    "D:\\Data\\_Code\\CSharp\\Projecten\\Demos\\PetFinderAPI\\PetFinderAPI\\PetFinderAPI.csproj": {
+    "C:\\_Data\\Github\\jblaauw\\PetFinderAPI\\PetFinderAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\_Code\\CSharp\\Projecten\\Demos\\PetFinderAPI\\PetFinderAPI\\PetFinderAPI.csproj",
+        "projectUniqueName": "C:\\_Data\\Github\\jblaauw\\PetFinderAPI\\PetFinderAPI.csproj",
         "projectName": "PetFinderAPI",
-        "projectPath": "D:\\Data\\_Code\\CSharp\\Projecten\\Demos\\PetFinderAPI\\PetFinderAPI\\PetFinderAPI.csproj",
+        "projectPath": "C:\\_Data\\Github\\jblaauw\\PetFinderAPI\\PetFinderAPI.csproj",
         "packagesPath": "C:\\Users\\Jeroen\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\_Code\\CSharp\\Projecten\\Demos\\PetFinderAPI\\PetFinderAPI\\obj\\",
+        "outputPath": "C:\\_Data\\Github\\jblaauw\\PetFinderAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -52,6 +52,10 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -79,16 +83,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -97,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

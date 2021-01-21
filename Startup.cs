@@ -34,7 +34,7 @@ namespace PetFinderAPI
             {
                 c.EnableAnnotations();
 
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "PetFinder API", Version = "v1", Description = "" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "PetFinder API", Version = "v1", Description = "Find out where that annoying little shit is hiding!" });
             });
 
             services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
