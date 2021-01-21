@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BycVRCw51Flncip+ydvCn5jCymjZ4vjk2Z/rxU7cWqrm1wc9UopEHWULapEes5JhkCWp+e2kG9FG1fRIvFb/2A==",
+  "dgSpecHash": "Qgl/UgzmWWmyTPdL43gUqwpCj0SFEGeiQPywpO8jlAaZB1Doobyym7z0czZ31dXKKvfhkR5YSYG8vDZ+hMwvXw==",
   "success": true,
-  "projectFilePath": "D:\\Data\\_Code\\CSharp\\Projecten\\Demos\\PetFinderAPI\\PetFinderAPI\\PetFinderAPI.csproj",
+  "projectFilePath": "C:\\_Data\\Github\\jblaauw\\PetFinderAPI\\PetFinderAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jeroen\\.nuget\\packages\\bamcis.geocoordinate\\1.0.2\\bamcis.geocoordinate.1.0.2.nupkg.sha512",
     "C:\\Users\\Jeroen\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
@@ -32,6 +32,7 @@
     "C:\\Users\\Jeroen\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\Jeroen\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\Jeroen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Jeroen\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\Jeroen\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\Jeroen\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Jeroen\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\5.6.3\\swashbuckle.aspnetcore.annotations.5.6.3.nupkg.sha512",
@@ -48,9 +49,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.xml\\4.5.0\\system.security.cryptography.xml.4.5.0.nupkg.sha512",
     "C:\\Users\\Jeroen\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
     "C:\\Users\\Jeroen\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
-    "C:\\Users\\Jeroen\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
-    "C:\\Users\\Jeroen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Jeroen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+    "C:\\Users\\Jeroen\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
